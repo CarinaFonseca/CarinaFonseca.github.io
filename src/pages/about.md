@@ -3,34 +3,26 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Carina Da Fonseca Pinto
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Je suis étudiante à l'HEIG-VD en Ingénerie des médias. D'après mon Ikigai, mon domaine de prédilection est le développement web.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+![mon Ikigai](../assets/images/ikigai.png)
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## Domaine: Développement web
 
-## Tech Stack
+Le domaine du développement web est vaste et en constante évolution, englobant un ensemble de compétences et de technologies liées à la création, à la conception et à la maintenance de sites web et d'applications web. Voici quelques aspects clés du développement web :
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- **Développement Front-end :** Le développement front-end se concentre sur la création de l'interface utilisateur visible par les utilisateurs. Les langages couramment utilisés incluent HTML, CSS et JavaScript. Les frameworks tels que React, Angular et Vue.js sont populaires pour simplifier le développement front-end.
 
-## Features
+- **Développement Back-end :** Le développement back-end concerne la logique et la gestion des données derrière l'interface utilisateur. Des langages comme Node.js, Python (Django, Flask), Ruby (Ruby on Rails), Java (Spring), et PHP sont utilisés pour construire des serveurs et des applications back-end.
 
-Here are certain features of this site.
+- **Full Stack Development :** Les développeurs full stack sont capables de travailler à la fois sur le front-end et le back-end. Ils ont une compréhension globale du processus de développement web.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- **Base de données :** Les développeurs web travaillent souvent avec des bases de données pour stocker et récupérer des informations. Des technologies comme MySQL, PostgreSQL, MongoDB, et SQLite sont couramment utilisées.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- **Développement Mobile :** Les technologies comme React Native, Flutter, et Xamarin permettent aux développeurs de créer des applications mobiles en utilisant des compétences web existantes.
+
+- **Sécurité Web :** Les développeurs web doivent être conscients des problèmes de sécurité tels que la protection contre les attaques par injection SQL, les attaques CSRF, et la sécurisation des communications via HTTPS.
+
+Le développement web offre une variété de rôles et d'opportunités, allant des développeurs juniors et seniors aux spécialisations telles que l'ingénierie front-end, le développement back-end, la sécurité web, et la gestion de projet. La collaboration entre développeurs, concepteurs, et autres professionnels est souvent essentielle pour mener à bien des projets web réussis.
